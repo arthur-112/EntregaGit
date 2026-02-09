@@ -15,3 +15,4 @@ cambios prueba 6.3
 #Resumen de la practica
 Habituarnos al ciclo de trabajo con Git
 Nueva funcionalidad para rotar piezas con el ratón.
+nueva funcionalidad addcolor

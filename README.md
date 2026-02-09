@@ -1,3 +1,4 @@
+
 # Hundir la Flota
 Este es el pequeño juego de hundir la flota realizado en JAVA
 Se genera un tablero en la consola y hay que adivinar en que posición estan los barcos
@@ -10,3 +11,7 @@ Ya que esto solo es la prueba de funcionamiento se muestran los datos de los bar
 
 ![alt text](https://github.com/FerminOrtega/hundirlaflota/blob/master/README%20IMG.png?raw=true)
 cambios prueba 6.3
+
+#Resumen de la practica
+Habituarnos al ciclo de trabajo con Git
+
